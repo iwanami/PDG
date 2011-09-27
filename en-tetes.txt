@@ -1,0 +1,27 @@
+class/file header:
+
+/*****************************************************************************
+ * Projet   : project_name
+ * Nom      : file_name
+ * But      : purpose
+ * Remarques: remarks
+ *
+ * Authors  : David Beauverd, Fabrizio Beretta Piccoli, Laurent Constantin,
+ *            Fernando Garcia Costales, Laura Rueda Garcia, Julien Schaller,
+ *            Numa Trezzini
+ * Cours    : Projet de Groupe (PDG), sous la direction d'A.Guerid et 
+ *            J.-P. Moillet
+ ****************************************************************************/
+ 
+ method/function header:
+ 
+/****************************************************************************
+ * Nom             : file_name
+ * But             : purpose
+ * Parametres      : - param_name: type
+ * Valeur de retour: type
+ * Remarques       : remarks and details on params
+ ****************************************************************************/
+ 
+ /!\ en java, n'hesitez pas a utiliser les tags Javadoc!
+ /!\ pour les attributs de classe, on utilisera un single-line comment
